@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\Arenda\Arenda\bin\Debug\Arenda.exe.config
+C:\Users\anton\source\repos\Arenda\Arenda\bin\Debug\Arenda.exe
+C:\Users\anton\source\repos\Arenda\Arenda\bin\Debug\Arenda.pdb
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.Apartaddfrm.resources
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.Form1.resources
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.Properties.Resources.resources
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.exe
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.pdb
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.Karta.resources
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.Loga.resources
+C:\Users\anton\source\repos\Arenda\Arenda\obj\Debug\Arenda.Reg.resources
